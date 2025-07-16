@@ -15,7 +15,16 @@ scanf("%d" &opcao );
 switch (opcao){
 
 case 1:
-    #script 1
+
+    int num, i;
+
+    printf("digite um numero \n ");
+    scanf ("%d" &num);
+
+
+
+
+
 break;
 
 case 2:
@@ -35,3 +44,33 @@ break;
     }
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
